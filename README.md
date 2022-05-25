@@ -54,8 +54,8 @@
   <img align="center" alt="Thunder386 Steam" width="30px" src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg" />
  </a> 
 	
- <a href="[https://steamcommunity.com/id/thunder386/](https://linktr.ee/thunder386)" target="blank">
-  <img align="center" alt="Thunder386 Linktree" width="30px" src="https://techstory.in/wp-content/uploads/2022/05/Link.jpg" />
+ <a href="https://linktr.ee/thunder386" target="blank">
+  <img align="center" alt="Thunder386 Linktree" width="30px" src="https://cdn.worldvectorlogo.com/logos/linktree-2.svg" />
  </a> 
   <br/>
   <br/>
