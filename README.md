@@ -37,13 +37,13 @@
 -->
 
 **Developing/Working for.**
-<h4>Friends-of-Bytes (Working)
+<h1>Friends-of-Bytes (Working)
 <img href="friends-of-bytes.com" align="right" width="100px" border-radius="90px" src="https://www.friends-of-bytes.com/wp-content/themes/fob-orange-child/images/fob-logo.svg"/>	
-	</h4>
+	</h1>
 	
-<h4>TeamBasH Gaming (Freelance)
+<h4>TeamBasH Gaming (Freelance)	</h4>
+<br>
 <img href="teambash.de" align="left" width="80px" border-radius="90px" src="https://github.com/Thunder386/Thunder386/blob/main/anim-disc-new.gif"/>
-	</h4>
 	
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/Thunder386/Thunder386/blob/main/Handshake.gif" height="33px" /></h3> 
