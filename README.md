@@ -42,7 +42,7 @@
 	</h1>
 	
 <h1>TeamBasH Gaming (Freelance)
-<img href="teambash.de" align="left" width="100px" border-radius="90px" src="https://github.com/Thunder386/Thunder386/blob/main/anim-disc-new.gif"/>
+<img href="teambash.de" align="left" width="80px" border-radius="90px" src="https://github.com/Thunder386/Thunder386/blob/main/anim-disc-new.gif"/>
 	</h1>
 	
 <div align="center">
@@ -68,4 +68,4 @@
 <p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frajput2107%2F" /></p>
 <br/>
 <p> -->
-Visit my profile and give a ⭐️ if you like it</p>
+and visit my profile, give a ⭐️ if you like it</p>
