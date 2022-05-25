@@ -42,7 +42,7 @@
 </div>
 <p align="center">
  <a href="https://discord.com/users/409378557765353473" target="blank">
-  <img align="center" alt="Thunder386's Discord" width="30px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" /> &nbsp; &nbsp;
+  <img align="center" alt="Thunder386 Discord" width="30px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" /> &nbsp; &nbsp;
  </a>
  <a href="https://www.instagram.com/andre.d_kt/" target="blank">
   <img align="center" alt="Thunder386 Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
@@ -54,7 +54,7 @@
   <img align="center" alt="Thunder386 Steam" width="30px" src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg" />
  </a> 
  <a href="[https://steamcommunity.com/id/thunder386/](https://linktr.ee/thunder386)" target="blank">
-  <img align="center" alt="Thunder386 Steam" width="30px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Fde%2Flogo%2Flinktree-2&psig=AOvVaw16D6rVWlfsCba1vH6-3aov&ust=1653559050234000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCODdq8qx-vcCFQAAAAAdAAAAABAD" />
+  <img align="center" alt="Thunder386 Linktree" width="30px" src="https://techstory.in/wp-content/uploads/2022/05/Link.jpg" />
  </a> 
   <br/>
   <br/>
