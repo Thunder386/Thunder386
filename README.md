@@ -37,11 +37,8 @@
 -->
 
 ## Developing for.
-TeamBasH Gaming
+<h1>TeamBasH Gaming</h1>
 <img align="right" width="100px" border-radius="90px" src="https://github.com/Thunder386/Thunder386/blob/main/anim-disc-new.gif"/>
-<p align="left">
-<code><a href="https://www.discord.gg/teambash/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a></code>
-</p>
 
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/Thunder386/Thunder386/blob/main/Handshake.gif" height="33px" /></h3> 
