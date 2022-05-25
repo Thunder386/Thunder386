@@ -1,7 +1,7 @@
 ### Hello 👋
 <h2> About Me </h2>
 <br>
-### André | Male | 17yo
+André | Male | 17yo
 <br>
 • 🌱 I’m currently learning Specialist Application Development
 <br>
