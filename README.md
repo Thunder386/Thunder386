@@ -30,11 +30,11 @@
   <br/>
   
 **Developing/Working for.**
-<h1>Friends-of-Bytes (Working)
+<h1 href="friends-of-bytes.com">Friends-of-Bytes (Working)
 <img href="friends-of-bytes.com" align="right" width="100px" border-radius="90px" src="https://www.friends-of-bytes.com/wp-content/themes/fob-orange-child/images/fob-logo.svg"/>	
 	</h1>
 	
-<h3>TeamBasH Gaming (Freelance)😁</h3>
+<h3 href="teambash.de">TeamBasH Gaming (Freelance)😁</h3>
 <img href="teambash.de" align="left" width="80px" border-radius="90px" src="https://github.com/Thunder386/Thunder386/blob/main/anim-disc-new.gif"/>
 	
 <div align="center">
