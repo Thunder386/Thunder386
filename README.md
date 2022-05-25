@@ -37,6 +37,9 @@
 -->
 
 ## Developing for.
+<h1>Friends-of-Bytes
+<img align="right" width="100px" border-radius="90px" src="https://www.friends-of-bytes.com/wp-content/themes/fob-orange-child/images/fob-logo.svg"/>	
+
 <h1>TeamBasH Gaming</h1>
 <img align="right" width="100px" border-radius="90px" src="https://github.com/Thunder386/Thunder386/blob/main/anim-disc-new.gif"/>
 
