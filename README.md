@@ -36,12 +36,12 @@
 </p>  
 -->
 
-## Developing for.
+**Developing for.**
 <h1>Friends-of-Bytes
-<img align="right" width="100px" border-radius="90px" src="https://www.friends-of-bytes.com/wp-content/themes/fob-orange-child/images/fob-logo.svg"/>	
+<img href="friends-of-bytes.com" align="right" width="100px" border-radius="90px" src="https://www.friends-of-bytes.com/wp-content/themes/fob-orange-child/images/fob-logo.svg"/>	
 
-<h1>TeamBasH Gaming</h1>
-<img align="right" width="100px" border-radius="90px" src="https://github.com/Thunder386/Thunder386/blob/main/anim-disc-new.gif"/>
+<h1>TeamBasH Gaming
+<img href="teambash.de" align="right" width="100px" border-radius="90px" src="https://github.com/Thunder386/Thunder386/blob/main/anim-disc-new.gif"/>
 
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/Thunder386/Thunder386/blob/main/Handshake.gif" height="33px" /></h3> 
