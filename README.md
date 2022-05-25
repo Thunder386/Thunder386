@@ -42,7 +42,7 @@
 	</h1>
 	
 <h1>TeamBasH Gaming (Freelance)
-<img href="teambash.de" align="right" width="100px" border-radius="90px" src="https://github.com/Thunder386/Thunder386/blob/main/anim-disc-new.gif"/>
+<img href="teambash.de" align="left" width="100px" border-radius="90px" src="https://github.com/Thunder386/Thunder386/blob/main/anim-disc-new.gif"/>
 	</h1>
 	
 <div align="center">
