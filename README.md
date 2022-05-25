@@ -36,11 +36,12 @@
 </p>  
 -->
 
-<h3 align="center">Developing for.<ah3>
-<img align="center" src="https://github.com/Thunder386/Thunder386/blob/main/anim-disc-new.gif" height="75px" />
+## Developing for.
+<img align="right" src="https://github.com/Thunder386/Thunder386/blob/main/anim-disc-new.gif"/>
 TeamBasH Gaming
+<p align="center">
 <code><a href="https://www.discord.gg/teambash/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a></code>
-
+</p>
 
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/Thunder386/Thunder386/blob/main/Handshake.gif" height="33px" /></h3> 
