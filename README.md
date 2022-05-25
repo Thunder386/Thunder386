@@ -53,6 +53,9 @@
  <a href="https://steamcommunity.com/id/thunder386/" target="blank">
   <img align="center" alt="Thunder386 Steam" width="30px" src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg" />
  </a> 
+ <a href="[https://steamcommunity.com/id/thunder386/](https://linktr.ee/thunder386)" target="blank">
+  <img align="center" alt="Thunder386 Steam" width="30px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Fde%2Flogo%2Flinktree-2&psig=AOvVaw16D6rVWlfsCba1vH6-3aov&ust=1653559050234000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCODdq8qx-vcCFQAAAAAdAAAAABAD" />
+ </a> 
   <br/>
   <br/>
   Thanks for stopping by 😁<br/>
