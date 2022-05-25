@@ -36,9 +36,9 @@
 </p>  
 -->
 
-<div align="center">
-  <h3 align="center">Developing for.<img align="center" src="https://github.com/Thunder386/Thunder386/blob/main/anim-disc-new.gif" height="33px" /></h3> 
-</div>
+<h3 align="center">Developing for.<ah3>
+<img align="center" src="https://github.com/Thunder386/Thunder386/blob/main/anim-disc-new.gif" height="75px" />
+TeamBasH Gaming
 <code><a href="https://www.discord.gg/teambash/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a></code>
 
 
