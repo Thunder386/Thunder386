@@ -37,9 +37,9 @@
 -->
 
 ## Developing for.
-<img align="right" width="100px" src="https://github.com/Thunder386/Thunder386/blob/main/anim-disc-new.gif"/>
 TeamBasH Gaming
-<p align="right">
+<img align="right" width="100px" border-radius="90px"  src="https://github.com/Thunder386/Thunder386/blob/main/anim-disc-new.gif"/>
+<p align="left">
 <code><a href="https://www.discord.gg/teambash/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a></code>
 </p>
 
