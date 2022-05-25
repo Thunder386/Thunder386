@@ -41,8 +41,7 @@
 <img href="friends-of-bytes.com" align="right" width="100px" border-radius="90px" src="https://www.friends-of-bytes.com/wp-content/themes/fob-orange-child/images/fob-logo.svg"/>	
 	</h1>
 	
-<h4>TeamBasH Gaming (Freelance)	</h4>
-<br>
+<h3>TeamBasH Gaming (Freelance)😁</h3>
 <img href="teambash.de" align="left" width="80px" border-radius="90px" src="https://github.com/Thunder386/Thunder386/blob/main/anim-disc-new.gif"/>
 	
 <div align="center">
