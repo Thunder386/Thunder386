@@ -36,13 +36,15 @@
 </p>  
 -->
 
-**Developing for.**
-<h1>Friends-of-Bytes
+**Developing/Working for.**
+<h1>Friends-of-Bytes (Working)
 <img href="friends-of-bytes.com" align="right" width="100px" border-radius="90px" src="https://www.friends-of-bytes.com/wp-content/themes/fob-orange-child/images/fob-logo.svg"/>	
-
-<h1>TeamBasH Gaming
+	</h1>
+	
+<h1>TeamBasH Gaming (Freelance)
 <img href="teambash.de" align="right" width="100px" border-radius="90px" src="https://github.com/Thunder386/Thunder386/blob/main/anim-disc-new.gif"/>
-
+	</h1>
+	
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/Thunder386/Thunder386/blob/main/Handshake.gif" height="33px" /></h3> 
 </div>
