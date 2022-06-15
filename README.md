@@ -1,4 +1,4 @@
-### <img src="https://github.com/Thunder386/Thunder386/blob/main/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/Thunder386/Thunder386/blob/main/Earth.gif" width="24px">
+### <img src="https://github.com/Thunder386/Thunder386/blob/main/Hi.gif" width="28px"> Hello world!&nbsp;<img src="https://github.com/Thunder386/Thunder386/blob/main/Earth.gif" width="24px">
 <em>I am a 1th Year student from <a href="https://friends-of-bytes.com"><b>Friends-of-Bytes</b></a>. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset <img src="https://github.com/Thunder386/Thunder386/blob/main/PC.gif" height="20px"/>, and given me the curiosity to learn more.</em>
  <br/>
 ## Ask me about :computer: 
@@ -35,7 +35,6 @@
 	</h1>
 	
 <h3 href="teambash.de">TeamBasH Gaming (Freelance)😁</h3>
-<img href="teambash.de" align="left" width="80px" border-radius="90px" src="https://github.com/Thunder386/Thunder386/blob/main/anim-disc-new.gif"/>
 	
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/Thunder386/Thunder386/blob/main/Handshake.gif" height="33px" /></h3> 
