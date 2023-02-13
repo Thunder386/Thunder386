@@ -26,6 +26,8 @@
 ## 🌱 I’m currently learning ...
 - **Data Science**
 - **API**
+- **C#**
+- **Angular**
 <br/>
   <br/>
   
