@@ -55,7 +55,7 @@
   <img align="center" alt="Thunder386 Steam" width="30px" src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg" />
  </a> 
 	
- <a href="https://linktr.ee/thunder386" target="blank">
+ <a href="https://link.andredingfelder.de" target="blank">
   <img align="center" alt="Thunder386 Linktree" width="30px" src="https://cdn.worldvectorlogo.com/logos/linktree-2.svg" />
  </a> 
   <br/>
