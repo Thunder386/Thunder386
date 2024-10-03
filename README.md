@@ -30,8 +30,6 @@
 - **Angular**
 <br/>
   <br/>
-  
-**Developing/Working for.**
 
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/Thunder386/Thunder386/blob/main/Handshake.gif" height="33px" /></h3> 
