@@ -1,33 +1,43 @@
 ### <img src="https://github.com/Thunder386/Thunder386/blob/main/Hi.gif" width="28px"> Hello world!&nbsp;<img src="https://github.com/Thunder386/Thunder386/blob/main/Earth.gif" width="24px">
 <em>I am a Developer for <a href="https://netgrade.de"><b>netgrade</b></a>. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset <img src="https://github.com/Thunder386/Thunder386/blob/main/PC.gif" height="20px"/>, and given me the curiosity to learn more.</em>
  <br/>
-## Ask me about :computer: 
+## Ask me about :computer:
 - **Competitive Programming**
-	- Java ❤️ 
-	- JavaScrips
+	- C / C# ❤️ 
 	- LUA
+
+- **Programming**
+  - JavaScrips
+  - Java
+  - PHP
 
 <img align="right" src="https://github.com/Thunder386/Thunder386/blob/main/Developer.gif"/>
 
 - **Web Development**
-	- HTML, CSS and Javascript :white_check_mark:
+	- PHP, HTML, CSS and Javascript :white_check_mark:
 	- Bootstrap
+  - MySQL
 	- MonogoDB
 	- Express
 	- NodeJS 
 
+- **Operating system**
+  - GNU/Linux
+    - Ubuntu
+    - Mint
+    - Red hat
+    - debian
+    - CentOS
+  - Windows
+    - 2019 Server
+    - 2022 Server
 
-<code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></a></code>
-<code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
-<code><a href="https://lua.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/lua/lua-ar21.svg"></a></code>
-<code><a href="https://www.html.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
+<code><a href="https://www.andredingfelder.de/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></a></code>
+<code><a href="https://www.andredingfelder.de/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
+<code><a href="https://www.andredingfelder.de/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/lua/lua-ar21.svg"></a></code>
+<code><a href="https://www.andredingfelder.de/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
 <br/><br/>
 
-## 🌱 I’m currently learning ...
-- **Data Science**
-- **API**
-- **C#**
-- **Angular**
 <br/>
   <br/>
 
