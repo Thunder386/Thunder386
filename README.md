@@ -32,18 +32,13 @@
   <br/>
   
 **Developing/Working for.**
-<h1 href="friends-of-bytes.com">Friends-of-Bytes (Working)
-<img href="friends-of-bytes.com" align="right" width="100px" border-radius="90px" src="https://www.friends-of-bytes.com/wp-content/themes/fob-orange-child/images/fob-logo.svg"/>	
-	</h1>
-	
-<h3 href="teambash.de">TeamBasH Gaming (Freelance)😁</h3>
-	
+
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/Thunder386/Thunder386/blob/main/Handshake.gif" height="33px" /></h3> 
 </div>
 <p align="center">
  <a href="https://discord.com/users/409378557765353473" target="blank">
-  <img align="center" alt="Thunder386 Discord" width="30px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" /> &nbsp; &nbsp;
+  <img align="center" alt="Thunder386 Discord" width="30px" src="https://github.com/Thunder386/Thunder386/blob/main/discord-icon.svg" /> &nbsp; &nbsp;
  </a>
  <a href="https://www.instagram.com/andre.d_kt/" target="blank">
   <img align="center" alt="Thunder386 Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
@@ -55,10 +50,9 @@
   <img align="center" alt="Thunder386 Steam" width="30px" src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg" />
  </a> 
 	
- <a href="https://link.andredingfelder.de" target="blank">
-  <img align="center" alt="Thunder386 Linktree" width="30px" src="https://cdn.worldvectorlogo.com/logos/linktree-2.svg" />
- </a> 
   <br/>
   <br/>
+  <p style="text-align: center">
   Thanks for stopping by 😁<br/>
 and visit my profile, give a ⭐️ if you like it</p>
+</p>
