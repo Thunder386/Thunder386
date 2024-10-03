@@ -12,7 +12,7 @@
   - JavaScrips
   - Java
   - PHP
-
+ 
 - **Web Development**
 	- PHP, HTML, CSS and Javascript :white_check_mark:
 	- Bootstrap
