@@ -1,5 +1,5 @@
 ### <img src="https://github.com/Thunder386/Thunder386/blob/main/Hi.gif" width="28px"> Hello world!&nbsp;<img src="https://github.com/Thunder386/Thunder386/blob/main/Earth.gif" width="24px">
-<em>I am a 1th Year student from <a href="https://friends-of-bytes.com"><b>Friends-of-Bytes</b></a>. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset <img src="https://github.com/Thunder386/Thunder386/blob/main/PC.gif" height="20px"/>, and given me the curiosity to learn more.</em>
+<em>I am a Developer for <a href="https://netgrade.de"><b>netgrade</b></a>. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset <img src="https://github.com/Thunder386/Thunder386/blob/main/PC.gif" height="20px"/>, and given me the curiosity to learn more.</em>
  <br/>
 ## Ask me about :computer: 
 - **Competitive Programming**
